@@ -1,0 +1,34 @@
+_repo: Fairies-and-Fusiliers_10122
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graves, Robert
+    aliases:
+    - Ranke-Graves, Robert von
+    - Doyle, John
+    birthdate: 1895
+    deathdate: 1985
+    gutenberg_agent_id: '628'
+    url: http://www.gutenberg.org/2009/agents/628
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Graves
+description: 'This 1917 collection of poems focuses on Graves''s World War I experiences
+  and his friendships with such fellow poet-soldiers as Siegfried Sassoon and Wilfred
+  Owen. The poems detail the horrors of war while celebrating the bonds between soldiers.
+  Included in the collection are: Goliath and David," When I''m Killed," and Letter
+  to S. S. from Mametz Wood," among others.'
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War poetry, English'
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- GITenberg
+title: Fairies and Fusiliers
+url: http://www.gutenberg.org/ebooks/10122
