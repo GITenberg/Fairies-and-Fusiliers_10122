@@ -1,5 +1,8 @@
 _repo: Fairies-and-Fusiliers_10122
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Graves, Robert
@@ -16,6 +19,8 @@ description: 'This 1917 collection of poems focuses on Graves''s World War I exp
   Owen. The poems detail the horrors of war while celebrating the bonds between soldiers.
   Included in the collection are: Goliath and David," When I''m Killed," and Letter
   to S. S. from Mametz Wood," among others.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10122#Fairies-and-Fusiliers
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
